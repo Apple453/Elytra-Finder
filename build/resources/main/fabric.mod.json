@@ -1,0 +1,29 @@
+{
+    "schemaVersion": 1,
+    "name": "Elytra Finder",
+    "id": "elytrafinder",
+    "version": "0.0.3",
+
+    "description": "Meteor Addon",
+    "environment": "client",
+    "accessWidener": "accesswidener",
+    "authors": [
+        "Applee"
+    ],
+
+    "entrypoints": {
+        "meteor": [
+            "net.applee.Addon"
+        ]
+    },
+    "mixins": [
+    ],
+    "custom": {
+        "meteor-client:color": "0,110,110"
+    },
+    "depends": {
+        "java": ">=17",
+        "minecraft": ">=1.19",
+        "meteor-client": "*"
+    }
+}

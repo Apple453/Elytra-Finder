@@ -1,2 +1,3 @@
-# Elytra Finder
- Automaticaly loots elytras in the end with trident boost (Old version for gulag.pw).
+<h1 align="center">Elytra Finder</h1>
+<p align="center">Meteor client Addon.</p>
+
